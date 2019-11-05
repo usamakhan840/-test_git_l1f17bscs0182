@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 "Name:Muhammad Usama "
+=======
+"Name: Usama Khan"
+>>>>>>> 14de20931e6bdf4fa1b05d7b11ecce0dda1133c1
 Email:usamakhan840@gmail.com
 faculty of Information Technology
 UCP
